@@ -1,0 +1,22 @@
+site_name: Predicción de Riesgo Suicida
+site_url: https://github.com/Iaritags/Prediccionsuicidio
+repo_url: https://github.com/Iaritags/Prediccionsuicidio
+repo_name: usuario/prediccion_suicidio
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Instrucciones de uso: instrucciones_uso.md
+  - ETL: 
+      - Procesamiento: etl.md
+      - Diccionario de Datos:
+        - Crudos: diccionarios/diccionario_raw.md
+        - Procesados: diccionarios/diccionario_procesado.md
+      - Consultas SQL: queries.md
+  - Análisis Exploratorio: analisis_exploratorio.md
+  - Modelo: modelo.md
+
+
+docs_dir: docs
