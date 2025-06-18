@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/analisis_exploratorio/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/etl/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/instrucciones_uso/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/modelo/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/queries/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/diccionarios/diccionario_procesado/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Iaritags/Prediccionsuicidio/diccionarios/diccionario_raw/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+</urlset>
