@@ -90,8 +90,8 @@ Expand-Archive -Path "data/raw/datos_clinicos.zip" -DestinationPath "data/raw"
 ## 📄 Recursos clave
 
 * 📘 [Informe final del proyecto (PDF)](reports/Informe_Final_Riesgo_Suicida.pdf)
-* 📋 [Diccionario de datos crudos](docs/diccionario_raw.md)
-* 📋 [Diccionario de datos procesados](docs/diccionario_procesado.md)
+* 📋 [Diccionario de datos crudos](docs/diccionarios/diccionario_raw.md)
+* 📋 [Diccionario de datos procesados](docs/diccionarios/diccionario_procesado.md)
 
 ---
 
