@@ -1,8 +1,9 @@
 # 🧠 Predicción de Riesgo Suicida en Jóvenes mediante Aprendizaje Automático
 
 📘 **Documentación completa disponible en:** [https://usuario.github.io/prediccion\_suicidio](https://usuario.github.io/prediccion_suicidio)
-<iframe src="https://drive.google.com/file/d/1EU-li0CBnCAvaCudHX7TCRA7Xoa2bOxA/view" width="640" height="480" allow="autoplay"></iframe>
-
+<video controls width="640">
+  <source src="https://github.com/Iaritags/Prediccionsuicidio/releases/tag/v1/AA_Proyecto_Final_VideoExpositivo_GonzalezSardi_Iara.mp4" type="video/mp4">
+</video>
 Este proyecto tiene como finalidad aplicar técnicas de aprendizaje automático para anticipar situaciones de riesgo suicida en población joven, utilizando datos clínicos anonimizados del sistema de salud público de Tierra del Fuego.
 
 Fue desarrollado como trabajo final de la materia *Aprendizaje Automático*, en el marco de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
