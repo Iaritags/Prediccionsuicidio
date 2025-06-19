@@ -1,6 +1,8 @@
 # 🧠 Predicción de Riesgo Suicida en Jóvenes mediante Aprendizaje Automático
 
 📘 **Documentación completa disponible en:** [https://usuario.github.io/prediccion\_suicidio](https://usuario.github.io/prediccion_suicidio)
+🎬 **Video explicativo disponible en:** [https://drive.google.com/file/d/1EU-li0CBnCAvaCudHX7TCRA7Xoa2bOxA/view](https://drive.google.com/file/d/1EU-li0CBnCAvaCudHX7TCRA7Xoa2bOxA/view)
+
 <video controls width="640">
   <source src="https://github.com/Iaritags/Prediccionsuicidio/releases/tag/v1/AA_Proyecto_Final_VideoExpositivo_GonzalezSardi_Iara.mp4" type="video/mp4">
 </video>
