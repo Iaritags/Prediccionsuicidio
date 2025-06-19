@@ -1,6 +1,6 @@
 # 🧠 Predicción de Riesgo Suicida en Jóvenes mediante Aprendizaje Automático
 
-📘 **Documentación completa disponible en:** [(https://usuario.github.io/prediccion\_suicidio](https://usuario.github.io/prediccion_suicidio)](https://iaritags.github.io/Prediccionsuicidio/)
+📘 **Documentación completa disponible en:** [https://iaritags.github.io/Prediccionsuicidio/](https://iaritags.github.io/Prediccionsuicidio/)
 🎬 **Video explicativo disponible en:** [https://drive.google.com/file/d/1EU-li0CBnCAvaCudHX7TCRA7Xoa2bOxA/view](https://drive.google.com/file/d/1EU-li0CBnCAvaCudHX7TCRA7Xoa2bOxA/view)
 
 <video controls width="640">
@@ -98,7 +98,7 @@ Expand-Archive -Path "data/raw/datos_clinicos.zip" -DestinationPath "data/raw"
 
 La documentación completa del proyecto se encuentra publicada en línea a través de GitHub Pages y puede consultarse en cualquier momento desde:
 
-🔗 [https://usuario.github.io/prediccion\_suicidio](https://usuario.github.io/prediccion_suicidio)](https://iaritags.github.io/Prediccionsuicidio/)
+🔗 [https://iaritags.github.io/Prediccionsuicidio/](https://iaritags.github.io/Prediccionsuicidio/)
 
 Incluye:
 
